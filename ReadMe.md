@@ -182,13 +182,7 @@ The AI uses predefined functions:
 - `executeCommand()`: Runs shell commands
 - Supports: mkdir, touch, echo, cat, etc.
 
-## 📸 Project Screenshots
 
-### Screenshot 1: AI Agent in Action
-
-![Web View](./Web_view.png)
-### Screenshot 2: Terminal View
-![Terminal View](./Terminal_view.png)
 
 
 
